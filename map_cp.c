@@ -4,9 +4,6 @@
 #include <sys/stat.h>
 #include <fcntl.h>
 #include <unistd.h>
-#include <string.h>
-#include <time.h>
-#include <ctype.h>
 #include <sys/mman.h>
 
 int main(int argc, char** argv)
